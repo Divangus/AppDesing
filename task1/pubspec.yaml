@@ -60,6 +60,7 @@ flutter:
   assets:
       - assets/thor_ragnarok_titol.png  
       - assets/thor_banner.jpeg
+      - assets/dolby.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
